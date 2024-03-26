@@ -19,6 +19,6 @@ Aplicação em modo console que permite ao usuário cadastrar e consultar bandas
 
 ## IDE
 Microsoft Visual Studio Community 2022 - Version 17.8.0
-
-
 Desenvolvedora: Avany Souza
+
+![Design sem nome](https://github.com/avanysouza/IEFP-Music/assets/118459101/183898fd-8add-4c53-ac6f-ab15cc89c007)
